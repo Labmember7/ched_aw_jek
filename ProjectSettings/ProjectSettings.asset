@@ -749,11 +749,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 7f18181b-2ed0-4e16-bb2e-daa1f19141da
+  cloudProjectId: 0ba6bb9d-5170-483e-bbb7-ceee5d57e60f
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Ched aw jek
-  organizationId: skanderzoghlam
+  projectName: Ched_aw_jek
+  organizationId: bacemgames
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
